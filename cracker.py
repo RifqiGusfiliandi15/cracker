@@ -34,7 +34,10 @@ logo = '\x1b[1;92m
 |__/  |__/|__/|__/     \____  $$|__/       \______/  \______/ |_______/ |__/      |__/|__/|__/ \_______/|__/  |__/ \_______/|__/
                             | $$                                                                                                
                             | $$                                                                                                
-                            |__/\x1b[1;93mv1.6\n\x1b[1;93m* \x1b[1;97mAuthor  \x1b[1;91m: \x1b[1;96mRifqi Gusfiliandi\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mSekolah \x1b[1;91m: \x1b[1;96mSmpn 4 Subang\x1b[1;97m[\x1b[1;96m\x1b[1;97m] \x1b[1;97m/ \x1b[1;96mGUNAKAN DENGAN BIJAK \x1b[1;97m/ \x1b[1;96mRifqi Gusfiliandi\n\x1b[1;93m* \x1b[1;97mGitHub  \x1b[1;91m: \x1b[1;92m\x1b[4mhttps://github.com/RifqiGusfiliandi15\x1b[0m\n[*] Decompiled by Rifqi Gusfiliandi\n'
+                            |__/
+
+
+\x1b[1;93mv1.6\n\x1b[1;93m* \x1b[1;97mAuthor  \x1b[1;91m: \x1b[1;96mRifqi Gusfiliandi\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mSekolah \x1b[1;91m: \x1b[1;96mSmpn 4 Subang\x1b[1;97m[\x1b[1;96m\x1b[1;97m] \x1b[1;97m/ \x1b[1;96mGUNAKAN DENGAN BIJAK \x1b[1;97m/ \x1b[1;96mRifqi Gusfiliandi\n\x1b[1;93m* \x1b[1;97mGitHub  \x1b[1;91m: \x1b[1;92m\x1b[4mhttps://github.com/RifqiGusfiliandi15\x1b[0m\n[*] Decompiled by Rifqi Gusfiliandi\n'
 
 def tik():
     titik = [
